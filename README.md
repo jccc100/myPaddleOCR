@@ -1,0 +1,2 @@
+# myPaddleOCR
+PaddleOCR
